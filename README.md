@@ -1,5 +1,7 @@
 # Tải Báo Khoa Học
 
+**[Quay về Trang chủ](https://khangshirokuma.github.io/)**
+
 Chào mọi người!!
 
 Chắc nhiều bạn có biết tới các nơi thân quen sau: LibGen, SciHub, ZLib.  
