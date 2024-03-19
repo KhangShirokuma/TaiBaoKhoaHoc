@@ -22,12 +22,21 @@ Dông dài vậy đủ rồi. Vậy đường dẫn đâu? ("Đăng hình nóng 
 Tiểu nhị tới ngay đây.  
     1. Kênh chủ quản của con bot (thông tin, tin tức, kể cả tên con bot đang còn sống và chạy tốt):  
         t.me/nexus_search  
-    2. Con bot đó (đang sống và chạy tốt):  
-        1. t.me/science_nexus_bot  
-        2. (Tìm trong thanh tìm kiếm của Telegram) @science_nexus_bot  
+    2. Con bot đó (đang sống và chạy tốt) (cập nhật vào ngày 20/03/2024 \| 2024/03/20): 
+        1. Con bot chính thức 1  
+            1. t.me/science_nexus2_bot  
+            2. (Tìm trong thanh tìm kiếm của Telegram) @science_nexus2_bot  
+        2. Con bot chính thức 2  
+            1. t.me/science_nexus3_bot  
+            2. (Tìm trong thanh tìm kiếm của Telegram) @science_nexus3_bot  
+        3. Con bot chính thức 3  
+            1. t.me/science_nexus4_bot  
+            2. (Tìm trong thanh tìm kiếm của Telegram) @science_nexus4_bot  
     3. Nhóm để đóng góp:  
         t.me/nexus_aaron  
-        (Aaron là tên của người-mà-ai-cũng-biết của Reddit)
+        (Aaron là tên của người-mà-ai-cũng-biết của Reddit)  
+    4. Kênh hướng dẫn nhân bản bot:  
+        t.me/Nexus_riot  
 
 ---------------
 Hi vọng bài viết này hữu ích với các bạn, đặc biệt là các bạn đang cắm cúi tìm báo khoa học.  
